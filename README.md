@@ -16,6 +16,7 @@ Polymorphism:
 Method overriding: The Room class overrides the displayDetails method to provide a customized implementation for displaying room information. The toString method in the Tenant class is overridden to format tenant profiles in a user-friendly way.
 # Goal 11: Sustainable Cities and Communities
 Target 11.1 Ensure access for all to adequate, safe, and affordable housing.
+
 Integration into the Project:
 This project meets SDG 11 through:
 
