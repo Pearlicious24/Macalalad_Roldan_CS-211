@@ -14,3 +14,11 @@ The Room class inherits from the abstract Property class, reusing its fields and
 
 Polymorphism:
 Method overriding: The Room class overrides the displayDetails method to provide a customized implementation for displaying room information. The toString method in the Tenant class is overridden to format tenant profiles in a user-friendly way.
+# Goal 11: Sustainable Cities and Communities
+Target 11.1 Ensure access for all to adequate, safe, and affordable housing.
+Integration into the Project:
+This project meets SDG 11 through:
+Transparency in Room Availability: The landlord has the ability to manage and clearly show room availability as well as rental status.
+Tenant-Landlord relations: The system maintains profiles of tenants and makes updates easy, thus holding accountable and building trust.
+Affordable Housing Management: This application targets small-scale landlords, who provide affordable housing most often, 
+ensuring that they are efficient in their operation to serve more tenants.
