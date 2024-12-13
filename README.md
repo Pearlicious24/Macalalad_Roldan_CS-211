@@ -25,3 +25,43 @@ Transparency in Room Availability: The landlord has the ability to manage and cl
 Tenant-Landlord relations: The system maintains profiles of tenants and makes updates easy, thus holding accountable and building trust.
 Affordable Housing Management: This application targets small-scale landlords, who provide affordable housing most often, 
 ensuring that they are efficient in their operation to serve more tenants.
+# Running Instructions for the Program
+
+Requirements:
+
+Java Development Kit (JDK): Install JDK 8 or later on your computer.
+A text editor or IDE such as IntelliJ IDEA, Eclipse, or VS Code to compile and run the Java program.
+
+Steps:
+
+Save the given code in a file named rents.java.
+
+Open terminal/command prompt.
+
+Go to the directory where the file is saved.
+
+Compile the program with the following command:
+javac rents.java
+
+Run the program with the following command:
+java rents
+
+Follow the menu shown in the screen to interact with the application.
+
+Using Menu
+
+Select an option using key number (for instance 1 to add room)
+
+Enter the necessary information by prompting (for example room number, tenant name etc,)
+
+Exit the program using number 7
+
+Here are some examples of work-flows
+
+Add room with option 1 with appropriate details
+
+List rooms under option 2
+
+Book a room with option 3 and enter details.
+
+View tenant details for a specific room using option 5.
