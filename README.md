@@ -18,8 +18,8 @@ Method overriding: The Room class overrides the displayDetails method to provide
 Target 11.1 Ensure access for all to adequate, safe, and affordable housing.
 Integration into the Project:
 This project meets SDG 11 through:
-Transparency in Room Availability: 
-The landlord has the ability to manage and clearly show room availability as well as rental status.
+
+Transparency in Room Availability: The landlord has the ability to manage and clearly show room availability as well as rental status.
 Tenant-Landlord relations: The system maintains profiles of tenants and makes updates easy, thus holding accountable and building trust.
 Affordable Housing Management: This application targets small-scale landlords, who provide affordable housing most often, 
 ensuring that they are efficient in their operation to serve more tenants.
