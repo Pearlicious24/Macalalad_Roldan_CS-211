@@ -33,6 +33,7 @@ Java Development Kit (JDK): Install JDK 8 or later on your computer.
 A text editor or IDE such as IntelliJ IDEA, Eclipse, or VS Code to compile and run the Java program.
 
 Steps:
+
 Save the given code in a file named rents.java.
 
 Open terminal/command prompt.
@@ -47,7 +48,7 @@ java rents
 
 Follow the menu shown in the screen to interact with the application.
 
-Using Menu
+Using Menu:
 
 Select an option using key number (for instance 1 to add room)
 
